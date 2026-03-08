@@ -1,6 +1,7 @@
 # indian-stock-market-analytics
 Python-based Indian Stock Market Analytics Dashboard with live data, technical indicators, stock comparison, and portfolio simulation.
 # Indian Stock Market Analytics Dashboard
+![image alt](https://github.com/Nitrogen345/indian-stock-market-analytics/blob/16796d480537a2edd4fec15c91d1ab95d9643cbf/Dashboard.png)
 
 An interactive **stock market analytics dashboard** built using Python.  
 This project allows users to analyze Indian stock market data with technical indicators, visualizations, and portfolio insights.
