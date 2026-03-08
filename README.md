@@ -21,6 +21,7 @@ It includes interactive charts, technical indicators, and comparison tools for a
 - Portfolio investment simulation
 - Interactive charts using Plotly
 
+![image alt](https://github.com/Nitrogen345/indian-stock-market-analytics/blob/cf849e6dc928cec82d83c0cedfc9d250fa9905c4/portfolio.png)
 ## Technologies Used
 
 - Python
